@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chunkindepadayali/LIZA-MWOL) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hopepsycho/LIZA-MWOL) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@chunkindepadayali/LizaMwol?v=1)
   
@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Chunkindepadayali/LIZA-MWOL
+$ git clone https://github.com/hopepsycho/LIZA-MWOL
 $ cd LIZA-MWOL
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -41,7 +41,7 @@ $ node Liza.js
       
 ```js
 SETUP
-$ git clone https://github.com/Chunkindepadayali/LIZA-MWOL
+$ git clone https://github.com/hopepsycho/LIZA-MWOL
 $ cd LIZA-MWOL
 $ npm i
 $ node Liza.js
